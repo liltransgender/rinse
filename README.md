@@ -1,1 +1,1 @@
-tool to sync folder with roblox studio
+rojo alternative, for simpler people
